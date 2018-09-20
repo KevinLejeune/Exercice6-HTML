@@ -1,0 +1,62 @@
+.green {
+  width: 80%;
+  height: 40px;
+  background: rgb(46, 204, 113);
+  float: left;
+}
+
+.blue {
+  width: 20%;
+  height: 40px;
+  background: rgb(41, 128, 185);
+  float: left;
+}
+
+.red {
+  width: 34%;
+  height: 80px;
+  background: rgb(231, 76, 60);
+  float: left;
+}
+
+.orange {
+  width: 33%;
+  height: 40px;
+  background: rgb(230, 126, 34);
+  float: left;
+}
+
+.grey {
+  width: 33%;
+  height: 40px;
+  background: rgb(149, 165, 166);
+  float: left;
+}
+
+.yellow {
+  width: 22%;
+  height: 40px;
+  background: rgb(243, 156, 18);
+  float: left;
+}
+
+.green2 {
+  width: 22%;
+  height: 40px;
+  background: rgb(22, 160, 133);
+  float: left;
+}
+
+.orange2 {
+  width: 22%;
+  height: 40px;
+  background: rgb(211, 84, 0);
+  float: left;
+}
+
+.black {
+  width: 100%;
+  height: 100px;
+  background: rgb(44, 62, 80);
+  float: left;
+}
